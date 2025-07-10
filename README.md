@@ -48,7 +48,7 @@ To uncover key sales drivers, customer loyalty patterns, and high-performing seg
 
 ## 📈 Tableau Dashboard
 
-> 🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/your-link)
+> 🔗 https://public.tableau.com/views/RetailSalesAnalyticsDashboard_17492324956900/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Includes:
 - Revenue trends
